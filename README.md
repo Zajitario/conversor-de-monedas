@@ -63,6 +63,7 @@ java -cp out miguel.alura.com.conversor.Principal
 ## 🖼️ Ejemplo de uso
 1.- Seleccionamos una de las opciones disponibles. En este caso, convertir monedas.
 ![Captura de pantalla](img/cap1.png)
+
 2.- Seleccionamos la moneda base a convertir y su moneda destino. (Por ejemplo de USD a ARS).
 ![Captura de pantalla2](img/cap2.png)
 
