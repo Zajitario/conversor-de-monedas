@@ -6,6 +6,7 @@ import java.util.Map;
 public class CurrencyLoader {
     public static Map<String, String> obtenerMonedas() {
         Map<String, String> monedas = new LinkedHashMap<>();
+        //Limitado manualmente
 
         monedas.put("USD", "United States Dollar");
         monedas.put("ARS", "Argentine Peso");
